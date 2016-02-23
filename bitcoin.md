@@ -35,3 +35,6 @@ This daemon will attempt to correlate the locally saved transaction and price da
 ### Public site
 
 After writing the previous two packages, I plan to write a public-facing site, showing my findings in graphable and interactive form.
+
+
+![Services](services.svg)
