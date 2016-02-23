@@ -16,7 +16,7 @@ In this project, I am to find detailed correlations between transaction throughp
 
 ## Technical procedure
 
-In overview, I plan to use free, open-source software such as [Node.js](https://nodejs.org/en/), [PostgreSQL](http://www.postgresql.org/), and [Bitcore](https://bitcore.io/).
+In overview, I plan to use free, open-source software such as [Node.js](https://nodejs.org/en/), [MongoDB](https://www.mongodb.org/), and [Bitcore](https://bitcore.io/).
 
 I'll then write the following software packages:
 
