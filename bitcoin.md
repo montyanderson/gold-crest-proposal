@@ -12,7 +12,7 @@ Bitcoin relies on a system pioneered by Satoshi, known as the 'blockchain', wher
 
 ## Aims of this project
 
-In this project, I am to find detailed correlations between transaction throughput (both in quantity and monetarily), and the current price of Bitcoin, in fiat currency such as the US Dollar, Great British Pound, or the Euro. This has been investigated before, but has never been properly released to the public due to capitalist intentions. I plan to make all of my findings available to the wide public, with interactive and easy-to-understand graphical explanations.
+In this project, I am trying to find detailed correlations between transaction throughput (both in quantity and monetarily), and the current price of Bitcoin, in fiat currency such as the US Dollar, Great British Pound, or the Euro. This has been investigated before, but has never been properly released to the public due to capitalist intentions. I plan to make all of my findings available to the wide public, with interactive and easy-to-understand graphical explanations.
 
 ## Technical procedure
 
